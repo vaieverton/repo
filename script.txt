@@ -1,0 +1,40 @@
+Live-Coding: Installing and Configuring Python Node React Docker Postgres in WSL Linux (NO VIBE CODING)
+
+python --version *
+node --version *
+docker --version *
+git --version *
+
+- in docker 
+postgres --version
+
+- test if I can see the GUI tkinter
+
+- if fast, start
+integrate git and github actions to deploy a basic react app
+
+
+
+Python	3.12.x -> 3.14.4 *
+Node.js	22 LTS *
+React	19.x 
+Docker	28.x (or LTS)
+Docker Compose	v2.x
+PostgreSQL	16.x
+
+
+
+
+
+
+
+
+
+
+
+
+
+Live-Coding: Building the automation app interface with React and MUI (NO VIBE CODING)
+Live-Coding: Dockerizing the React app and continue building (NO VIBE CODING)
+
+
