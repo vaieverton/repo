@@ -20,11 +20,16 @@ React-App:
 - install mui *
 - install yarn *
 - create 1 page 
-- formalize idea 
+- upload PDF *
+- extract data with backend
+- formalize idea *
+    Processes automation tool (PDF - auto form register, information extractor | EXCEL - form databases from generic tables)
 
 Python Server
 - created with fastAPI
-
+- create pdf-analyse route
+- create analyzer tool
+- return data
 
 
 

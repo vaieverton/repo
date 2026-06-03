@@ -1,11 +1,19 @@
 from fastapi import FastAPI
 
-from app.api.router import api_router
 
 app = FastAPI(
-    title="Automation Platform API",
+    title="Processes Automation Platform API",
     version="0.1.0",
 )
 
 # app.include_router(api_router, prefix="/")
-app.include_router(api_router)
+# app.include_router(api_router)
+
+@app.get("/")
+async def root():
+    return { "message" : "Hello World!" }
+
+
+@app.get("/pdf_analysis")
+async def pdf_analysis():
+    return { "pdf-content" : "Text here" }
