@@ -6,9 +6,9 @@ docker --version *
 git --version *
 
 - in docker 
-postgres --version
+postgres --version *
 
-- test if I can see the GUI tkinter
+- test if I can see the GUI tkinter **
 
 - if fast, start
 integrate git and github actions to deploy a basic react app
