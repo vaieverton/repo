@@ -22,7 +22,9 @@ React-App:
 - create 1 page 
 - formalize idea 
 
-Python Server:
+Python Server
+- created with fastAPI
+
 
 
 
