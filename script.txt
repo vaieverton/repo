@@ -11,7 +11,18 @@ postgres --version *
 - test if I can see the GUI tkinter **
 
 - if fast, start
-integrate git and github actions to deploy a basic react app
+integrate git and github actions *
+deploy a basic react app testing
+
+
+React-App:
+- create app *
+- install mui *
+- install yarn *
+- create 1 page 
+- formalize idea 
+
+Python Server:
 
 
 
